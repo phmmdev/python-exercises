@@ -1,3 +1,5 @@
+![python banner](https://github.com/phmmdev/python-exercises/blob/main/python-banner.jpg)
+
 # Resolução de exercícios em Python
 Repositório destinado a mentoria e resolução de exercícios na linguagem python para que sirva de apoio a iniciantes na linguagem.
 
