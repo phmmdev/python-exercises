@@ -21,9 +21,7 @@ def set_limits(max_value):
 
 def generate_classification(max_value):
     x = int(max_value / 100)
-    for count in range(x):
-        classification.append(0)
-
+    classification = [0] * x +1
 
 def define_position(sale, limits):
     return int(sale / limits)
