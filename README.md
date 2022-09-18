@@ -8,7 +8,7 @@ A Seguir um indice com as listas e suas respectivas resoluções:
 
 Status | Lista   | Resolução
 --- | --------- | ---------
- :yellow_square: | [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-listas)
+ :green_square: | [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-listas)
  :white_large_square: | [Estrutura de Decisão](https://wiki.python.org.br/EstruturaDeDecisao) | [Resolução](#)
  :white_large_square:| [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao) | [Resolução](#)
  :green_square: | [Listas em python](https://wiki.python.org.br/ExerciciosListas) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-listas)
