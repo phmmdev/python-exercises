@@ -10,7 +10,7 @@ Status | Lista   | Resolução
 --- | --------- | ---------
  :green_square: | [Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-listas)
  :green_square: | [Estrutura de Decisão](https://wiki.python.org.br/EstruturaDeDecisao) | [Resolução](#)
- :white_large_square:| [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao) | [Resolução](#)
+ :yellow_square:| [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao) | [Resolução](#)
  :green_square: | [Listas em python](https://wiki.python.org.br/ExerciciosListas) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-listas)
  :white_large_square: | [Funções em python](https://wiki.python.org.br/ExerciciosFuncoes) | [Resolução](#)
  :white_large_square: | [Strings em python](https://wiki.python.org.br/ExerciciosComStrings) | [Resolução](#)
