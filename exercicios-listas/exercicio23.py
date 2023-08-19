@@ -1,4 +1,4 @@
-users_usage_raw = [["alexandre", "456123789"],
+users_usage_rawslice = [["alexandre", "456123789"],
                 ["anderson", "1245698456"],
                 ["antonio", "123456456"],
                 ["carlos", "91257581"],
