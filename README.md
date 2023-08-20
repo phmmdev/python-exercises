@@ -12,9 +12,9 @@ Status | Lista   | Resolução
  :green_square: | [Estrutura de Decisão](https://wiki.python.org.br/EstruturaDeDecisao) | [Resolução](#)
  :green_square:| [Estrutura de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao) | [Resolução](#)
  :green_square: | [Listas em python](https://wiki.python.org.br/ExerciciosListas) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-listas)
- :green_square: | [Funções em python](https://wiki.python.org.br/ExerciciosFuncoes) | [Resolução](#)
- :yellow_square: | [Strings em python](https://wiki.python.org.br/ExerciciosComStrings) | [Resolução](#)
- :white_large_square: | [Arquivos em python](https://wiki.python.org.br/ExerciciosArquivos) | [Resolução](#)
+ :green_square: | [Funções em python](https://wiki.python.org.br/ExerciciosFuncoes) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-funcoes)
+ :green_square: | [Strings em python](https://wiki.python.org.br/ExerciciosComStrings) | [Resolução](https://github.com/phmmdev/python-exercises/tree/main/exercicios-strings)
+ :yellow_square: | [Arquivos em python](https://wiki.python.org.br/ExerciciosArquivos) | [Resolução](#)
  :white_large_square: | [Classes em python](https://wiki.python.org.br/ExerciciosClasses) | [Resolução](#)
  :white_large_square: | [Projetos em python](https://wiki.python.org.br/ListaDeExerciciosProjetos) | [Resolução](#)
 
